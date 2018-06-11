@@ -1,0 +1,16 @@
+syntax = "proto2";
+
+package rpc;
+
+message RpcRequest {
+  required string service = 1;
+  required string method = 2;
+  required bytes argument_bytes = 3;
+}
+
+message RpcResponse {
+  required bytes response_message = 1;
+}
+
+
+
