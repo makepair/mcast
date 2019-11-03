@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-03T15:23:20.494Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15" etag="hAWlhIVJuHm5otscd3_3" version="12.1.9" type="github" pages="11">
+<mxfile modified="2019-11-03T15:42:43.691Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15" etag="m0Cmjt4uUnf7qtQMVyOD" version="12.1.9" type="github" pages="11">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1666,8 +1666,14 @@
         <mxCell id="Qi_NQgXwE8Mg-O4CpA8I-27" value="将 canvas 转为图片" style="align=center;verticalAlign=middle;spacing=0;fontSize=12;fontStyle=0;spacingTop=0;rounded=1;shadow=0;comic=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="Qi_NQgXwE8Mg-O4CpA8I-1">
           <mxGeometry x="430" y="80" width="210" height="33" as="geometry"/>
         </mxCell>
+        <mxCell id="Qi_NQgXwE8Mg-O4CpA8I-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qi_NQgXwE8Mg-O4CpA8I-1" source="Qi_NQgXwE8Mg-O4CpA8I-29" target="Qi_NQgXwE8Mg-O4CpA8I-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Qi_NQgXwE8Mg-O4CpA8I-29" value="绘制图片" style="align=center;verticalAlign=middle;spacing=0;fontSize=12;fontStyle=0;spacingTop=0;rounded=1;shadow=0;comic=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="Qi_NQgXwE8Mg-O4CpA8I-1">
           <mxGeometry x="430" y="150" width="210" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qi_NQgXwE8Mg-O4CpA8I-44" value="绘制元素选中状态" style="align=center;verticalAlign=middle;spacing=0;fontSize=12;fontStyle=0;spacingTop=0;rounded=1;shadow=0;comic=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="Qi_NQgXwE8Mg-O4CpA8I-1">
+          <mxGeometry x="430" y="213.5" width="210" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="Qi_NQgXwE8Mg-O4CpA8I-17" value="图表对象绘制" style="align=center;verticalAlign=middle;spacing=0;fontSize=12;fontStyle=0;spacingTop=0;rounded=1;shadow=0;comic=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="Qi_NQgXwE8Mg-O4CpA8I-1">
           <mxGeometry x="160" y="10" width="210" height="33" as="geometry"/>
